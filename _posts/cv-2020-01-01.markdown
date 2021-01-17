@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Matvey Smychkov
+title:  CV
 date:   2020-12-27 15:36:58 +0200
-categories: CV
+categories: cv
 ---
 I have over 5 years of Java/Kotlin developer experience. As an engineer I strive to provide high quality software
 
