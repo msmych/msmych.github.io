@@ -9,8 +9,8 @@ categories: cv
 I work as a Java/Kotlin developer for over 5 years. 
 As an engineer I strive to provide high quality software. 
 I care about clean code and I follow TDD to make product more reliable and easier to maintain.
-Working as a part of an agile team I oversee my projects from designing to coding to deploying and monitoring. 
-I know my tools and libraries and I'm curious about learning new technologies.
+Working as a part of an agile team I oversee my projects from designing architecture to coding to deploying and monitoring. 
+I know my tools and libraries and I'm curious about learning new technologies
 
 ### Work experience
 
