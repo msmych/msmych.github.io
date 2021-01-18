@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  CV
-date:   2020-12-27 15:36:58 +0200
+date:   2021-01-01
 categories: cv
 ---
-I have over 5 years of Java/Kotlin developer experience. As an engineer I strive to provide high quality software
+I work as a Java/Kotlin developer for over 5 years. 
+As an engineer I strive to provide high quality software. 
+I care about clean code and I follow TDD to make product more reliable and easier to maintain.
+Working as a part of an agile team I oversee my projects from designing to coding to deploying and monitoring. 
+I know my tools and libraries and I'm curious about learning new technologies.
 
 ### Work experience
 
@@ -34,3 +38,6 @@ Participated in creating web applications for various financial and energy compa
 **Engineer degree at Moscow State Institute of Radio Engineering, Electronics and Automation**
 
 **Master degree at Politecnico di Milano** (unfinished)
+
+### Also
+I speak Russian, English, and Italian
