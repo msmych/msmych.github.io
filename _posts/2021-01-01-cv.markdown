@@ -4,6 +4,8 @@ title:  CV
 date:   2021-01-01
 categories: cv
 ---
+![Avatar](/assets/avatar.png)
+
 I work as a Java/Kotlin developer for over 5 years. 
 As an engineer I strive to provide high quality software. 
 I care about clean code and I follow TDD to make product more reliable and easier to maintain.
@@ -12,7 +14,7 @@ I know my tools and libraries and I'm curious about learning new technologies.
 
 ### Work experience
 
-**Backend engineer at Revolut**
+**Backend engineer at Revolut** (July 2019—present)
 
 Participated various projects as a backend developer
 
@@ -21,7 +23,7 @@ Participated various projects as a backend developer
 
 Using technologies like Java 11, Kotlin, SparkJava, Spock, Postgres, JOOQ, Docker, Gradle, TeamCity, GCP, Hashicorp Vault, Atlassian stack
 
-**Java software engineer at Alfa Bank**
+**Java software engineer at Alfa Bank** (February 2019—June 2019)
 
 Worked as a part of an agile team in the investment department
 
@@ -30,14 +32,14 @@ Worked as a part of an agile team in the investment department
 
 Used technologies like Java, Spring Boot, Gradle, MongoDB, Jenkins, Mesos/Marathon
 
-**Full stack engineer at Atos**
+**Full stack engineer at Atos** (September 2015—February 2019)
 
 Participated in creating web applications for various financial and energy companies — mostly as a Java backend developer, sometimes as a JS/TS frontend developer
 
 ### Education
-**Engineer degree at Moscow State Institute of Radio Engineering, Electronics and Automation**
+**Engineer degree at Moscow State Institute of Radio Engineering, Electronics and Automation** (2010—2015)
 
-**Master degree at Politecnico di Milano** (unfinished)
+**Master degree at Politecnico di Milano** (from 2013, unfinished)
 
 ### Also
 I speak Russian, English, and Italian
